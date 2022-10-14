@@ -1,2 +1,6 @@
 pao/.env
 venv
+db.sqlite3
+/pao/__pycache__
+/blog/migrations/*
+/blog/__pycache__
